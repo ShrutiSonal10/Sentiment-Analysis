@@ -12,6 +12,6 @@ pip install gTTS speech_recognition: Recognizing speech requires audio input, an
 Instead of having to build scripts for accessing microphones and processing audio files from scratch, SpeechRecognition will have you up and running in just a few minutes. pyttsx3: is a text-to-speech conversion library in Python. gTTS (Google Text-to-Speech): a Python library and CLI tool to interface with Google Translates' text-to-speech API textblob- Textblob and its NLPTK libraries. After recording the review from a customer, it analyses whether the review given is positive or negative or neutral, and to do this we have used textblob and its NLPTK libraries. And all the reviews are stored in a database called db.txt file for future reference. Recommendation: Run the code using the Visual Studio Code. 
 
 Project Done By: 
-Gaurav Vinod Bhambhani
-(18BCE072)
+Shruti Sonal
+(20-ECE-149)
 
